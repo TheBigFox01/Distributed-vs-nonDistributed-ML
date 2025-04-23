@@ -23,7 +23,7 @@ Three scripts have been created for the comparison:
 
 [2. Spark Script in a cluster] (src/Spark/SparkOnCluster.ipynb) Development on GCP, with a cluster consisting in 3 VM, 1 master and 2 worker, each with 2vCPU and 4GB of RAM.
 
-[3. Non-distributed Script] (src/classic_implementation) Local development on a machine.
+[3. Non-distributed Script] (src/classic_implementation/NotDistributed.ipynb) Local development on a machine.
 
 ## How to use
-Fore the  Non-distributed Script
+Fore the Non-distributed Script it can be executed in 
