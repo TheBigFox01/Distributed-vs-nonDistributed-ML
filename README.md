@@ -1,5 +1,5 @@
 # Distributed-vs-nonDistributed-ML
-<img src="img/sparkLogo.png" width="150">
+<img src="img/sparkLogo.png" width="150"> <img src="img/hadoopLogo.png" width="150">
 
 A comparison between distributed methods such as Spark and non-distributed ones for a machine learning task in order to analyze the results obtained.
 
