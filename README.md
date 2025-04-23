@@ -25,5 +25,9 @@ Three scripts have been created for the comparison:
 
 [3. Non-distributed Script] (src/classic_implementation/NotDistributed.ipynb) Local development on a machine.
 
+The EDA phase has been done in a separate script to not affect the result (src/EDA/DepressionClassification.py)
+
 ## How to use
-Fore the Non-distributed Script it can be executed in 
+The non-distributed script can be executed on a machine without any virtual machine (VM).
+The script using Spark on a cluster requires setting up a cluster on GCP; in this case, the cluster was built using Dataproc and requires enabling the necessary APIs from the GCP console.
+The script using Spark on a single VM can be executed on a properly configured local VM. However, if the environment has very limited resources — as in this case — it is possible to create a VM on GCP, set it up via the SSH console, and then access Jupyter from the local machine through an SSH tunnel in order to execute the code.
