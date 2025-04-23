@@ -19,11 +19,11 @@ The aim in the project is to perform a binary classification on the data in orde
 
 Three scripts have been created for the comparison:
 
-[1. Spark Script on single VM] (/src/Spark/SparkOnSingleVM.ipynb) Development on GCP, with a single VM consisting of 4 vCPU and 16GB of RAM, data loaded via HDFS.
+[1. Spark Script on single VM] (src/Spark/SparkOnSingleVM.ipynb) Development on GCP, with a single VM consisting of 4 vCPU and 16GB of RAM, data loaded via HDFS.
 
-[2. Spark Script in a cluster] (/src/Spark/SparkOnCluster.ipynb) Development on GCP, with a cluster consisting in 3 VM, 1 master and 2 worker, each with 2vCPU and 4GB of RAM.
+[2. Spark Script in a cluster] (src/Spark/SparkOnCluster.ipynb) Development on GCP, with a cluster consisting in 3 VM, 1 master and 2 worker, each with 2vCPU and 4GB of RAM.
 
-[3. Non-distributed Script] (/src/classic_implementation) Local development on a machine.
+[3. Non-distributed Script] (src/classic_implementation) Local development on a machine.
 
 ## How to use
 Fore the  Non-distributed Script
