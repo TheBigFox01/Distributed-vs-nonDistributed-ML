@@ -13,3 +13,7 @@ A comparison between distributed methods such as Spark and non-distributed ones 
 - Google Cloud Platform
 
 ## Goals
+The dataset used in the project [Kaggle] (https://www.kaggle.com/datasets/hopesb/student-depression-dataset), contains data aimed at analyzing, understanding, and predicting depression levels among students. Some of the features included in the dataset are information such as demographic , academic performance ,  mental health history, lifestyle habits and responses to standardized depression scales.
+
+The aim in the project is to perform a binary classification on the data in order to predict if a student suffer from depression or not. The column being analyzed is labeled "Depression" in the dataset, where a value of 1 indicates the presence of depression and 0 indicates its absence.
+
