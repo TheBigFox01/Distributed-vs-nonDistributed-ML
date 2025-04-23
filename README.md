@@ -19,7 +19,7 @@ The aim in the project is to perform a binary classification on the data in orde
 
 Three scripts have been created for the comparison:
 
-[1. Spark Script on single VM] (src/)
+[1. Spark Script on single VM] (src/Spark/SparkOnCluster.ipynb)
 
 [2. Spark Script in a cluster]
 
