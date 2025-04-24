@@ -18,7 +18,7 @@ The dataset used in the project [Kaggle] (https://www.kaggle.com/datasets/hopesb
 
 The aim in the project is to perform a binary classification on the data in order to predict if a student suffer from depression or not. The column being analyzed is labeled "Depression" in the dataset, where a value of 1 indicates the presence of depression and 0 indicates its absence.
 
-Three scripts have been created for the comparison:
+Four scripts have been created for the comparison:
 
 [1. Spark Script on single VM] (src/Spark/SparkOnSingleVM.ipynb) Development on GCP, with a single VM consisting of 4 vCPU and 16GB of RAM, data loaded via HDFS.
 
