@@ -24,9 +24,9 @@ Three scripts have been created for the comparison:
 
 [2. Spark Script in a cluster] (src/Spark/SparkOnCluster.ipynb) Development on GCP, with a cluster consisting in 3 VM, 1 master and 2 worker, each with 2vCPU and 4GB of RAM.
 
-[2. Dusk Script in a cluster] (src/Dusk/DuskOnSingleVM.ipynb) Development on GCP, with a single VM consisting of 4 vCPU and 16GB of RAM, using Dask for the parallelization + sklearn.
+[3. Dusk Script in a cluster] (src/Dusk/DuskOnSingleVM.ipynb) Development on GCP, with a single VM consisting of 4 vCPU and 16GB of RAM, using Dask for the parallelization + sklearn.
 
-[3. Non-distributed Script] (src/classic_implementation/NotDistributed.ipynb) Local development on a machine.
+[4. Non-distributed Script] (src/classic_implementation/NotDistributed.ipynb) Local development on a machine.
 
 The EDA phase has been done in a separate script to not affect the result (src/EDA/DepressionClassification.py)
 
